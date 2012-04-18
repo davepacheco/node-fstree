@@ -1,0 +1,18 @@
+{
+	"name": "fstree",
+	"version": "0.0.1",
+	"description": "recursive filesystem operations",
+	"main": "./lib/fstree.js",
+	
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/davepacheco/node-fstree.git"
+	},
+
+	"dependencies": {
+		"vasync": "1.0.1",
+		"verror": "1.0.1"
+	},
+
+	"engines": [ "node >=0.6.0" ]
+}
