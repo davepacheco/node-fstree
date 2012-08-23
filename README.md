@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/davepacheco/node-fstree.png)](http://travis-ci.org/davepacheco/node-fstree)
 # fstree: recursive filesystem functions
 
 There are plenty of modules for doing recursive filesystem operations.  These
